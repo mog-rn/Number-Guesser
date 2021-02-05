@@ -15,3 +15,12 @@ const comapareFunction = (userGuess, computerGuess, secretTargetNumber) => {
     return userDiff <= compDiff;  
 }
 
+//updateScore function
+const updateScore = (winner) => {
+    if (winner === 'user') {
+        humanScore++;
+    } else if(winner === 'computer') {
+        computerScore++;
+    }
+}
+
