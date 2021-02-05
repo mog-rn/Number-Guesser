@@ -1,8 +1,6 @@
 # Number-Guesser
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-<!--BADGES-->
 ![CodeQL](https://github.com/Mogakamo/Number-Guesser/workflows/CodeQL/badge.svg)
 [![GitHub issues](https://img.shields.io/github/issues/Mogakamo/Number-Guesser?style=flat-square)](https://github.com/Mogakamo/Number-Guesser/issues)
 [![GitHub forks](https://img.shields.io/github/forks/Mogakamo/Number-Guesser)](https://github.com/Mogakamo/Number-Guesser/network)
@@ -28,3 +26,5 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fm_ogakadev)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FMogakamo%2FNumber-Guesser)
