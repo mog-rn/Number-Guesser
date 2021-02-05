@@ -11,6 +11,7 @@ const generateTarget = () => {
 //compareGuess() function
 const comapareFunction = (userGuess, computerGuess, secretTargetNumber) => {
     if (userGuess === computerGuess) {
+        Math.abs(secretTargetNumber - userGuess);
         return true;
     } else {
         return false;
