@@ -25,4 +25,4 @@ const updateScore = (winner) => {
 }
 
 //advancedRound() function
-const advancedRound = updateScore;
+const advancedRound = updateScore();
