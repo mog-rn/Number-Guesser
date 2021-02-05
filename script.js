@@ -3,6 +3,8 @@ let computerScore = 0;
 let currentRoundNumber = 1;
 
 // Write your code below:
+//generateTarget() function
 const generateTarget = () => {
     return Math.floor(Math.random() * 9);
 }
+
