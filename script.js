@@ -10,10 +10,8 @@ const generateTarget = () => {
 
 //compareGuess() function
 const comapareFunction = (userGuess, computerGuess, secretTargetNumber) => {
-    if (userGuess === computerGuess) {
-        Math.abs(secretTargetNumber - userGuess);
-        return true;
-    } else {
-        return false;
-    }  
+    const userDiff = Math.abs(targetGuess - userGuess);
+    const compDiff = Math.abs(targetGuess - computerGuess);
+    return userDiff <= compDiff;  
 }
+
